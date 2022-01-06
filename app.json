@@ -1,6 +1,6 @@
 {
-  "name": "DAPA-UBOT",
-  "description": "[DAPA-UBOT] Let's Fun On Telegram.",
+  "name": "RANDI-UBOT",
+  "description": "[RANDI-UBOT] Let's Fun On Telegram.",
   "logo": "https://telegra.ph/file/ce6e9d746f554aef0c4d0.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Daffansaa/DAPA-UBOT",
-  "telegram": "https://t.me/MadBoyys",
-  "success_url": "https://t.me/saddestpeople",
+  "repository": "https://github.com/babintang/RANDI-UBOT",
+  "telegram": "https://t.me/cheonsaboss",
+  "success_url": "https://t.me/kerenjoinsini",
   "stack": "container",
   "env": {
     "API_KEY": {
